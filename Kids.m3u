@@ -1,0 +1,89 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://epg.one/img2/2481.png" group-title="Kids",СТС Kids HD
+http://rhsbjv7k.tvclub.xyz/iptv/LNE7CK973BXBGD/2001/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img2/601.png" group-title="Kids",Cartoon Network
+http://rhsbjv7k.tvclub.xyz/iptv/LNE7CK973BXBGD/143/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img2/929.png" group-title="Kids",Cartoonito
+http://rhsbjv7k.tvclub.xyz/iptv/LNE7CK973BXBGD/723/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img2/2436.png" group-title="Kids",Baby TV
+http://rhsbjv7k.tvclub.xyz/iptv/LNE7CK973BXBGD/2084/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img2/2223.png" group-title="Kids",Da Vinci Kids UA
+http://rhsbjv7k.tvclub.xyz/iptv/LNE7CK973BXBGD/1034/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img2/4728.png" group-title="Kids",Cartoons 90
+http://rhsbjv7k.tvclub.xyz/iptv/LNE7CK973BXBGD/11001/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img2/4729.png" group-title="Kids",Cartoons Short
+http://rhsbjv7k.tvclub.xyz/iptv/LNE7CK973BXBGD/11002/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img2/4730.png" group-title="Kids",Cartoons Big
+http://rhsbjv7k.tvclub.xyz/iptv/LNE7CK973BXBGD/11003/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img2/4593.png" group-title="Kids",VF Cartoon
+http://rhsbjv7k.tvclub.xyz/iptv/LNE7CK973BXBGD/10002/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img2/5386.png" group-title="Kids",Yosso TV Kids
+http://rhsbjv7k.tvclub.xyz/iptv/LNE7CK973BXBGD/14173/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img2/6006.png" group-title="Kids",Citrus Cartoon
+http://rhsbjv7k.tvclub.xyz/iptv/LNE7CK973BXBGD/16050/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img2/5428.png" group-title="Kids",Dosug TV Kids HD
+http://rhsbjv7k.tvclub.xyz/iptv/LNE7CK973BXBGD/14214/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img2/6244.png" group-title="Kids",Kinoshka Kids HD
+http://rhsbjv7k.tvclub.xyz/iptv/LNE7CK973BXBGD/18056/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img2/108.png" group-title="Kids",MYTV Kids
+http://rhsbjv7k.tvclub.xyz/iptv/LNE7CK973BXBGD/19409/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img2/5680.png" group-title="Kids",Majid Kids TV AE
+http://rhsbjv7k.tvclub.xyz/iptv/LNE7CK973BXBGD/15202/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CwF29mk3/spi.png" group-title="KURDISH سۆرانی",spi kids 4k
+https://live20.bozztv.com/giatv/giatv-spikids4k2025/spikids4k2025/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/reng-kids-1.png" group-title="KURDISH سۆرانی",Reng_Kids
+http://gawadkoregawad.ddns.net:2200/KN/Reng_Kids_HD-kr/index.m3u8?token=fyBlKndpe3pmLXppNxEVBw1he3VoLnQ1Kj9gfHdofnVkcnJhsdfsfsfsf
+#EXTINF:-1 group-title="KURDISH سۆرانی",MTV Kids
+http://gawadkoregawad.ddns.net/EX/MTV_Kids_HD-kr/index.m3u8?token=fyBlKndpe3pmLXppNxEVBw1he3VoLnQ1Kj9gfHdofXVifHBi
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/s3DfxzHP/MMN.png" group-title="KURDISH سۆرانی",MMN KIDS
+http://mmn.mypsx.net:1935/live/mmnhdkids/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T23RyBnS/QALAM.png" group-title="KURDISH سۆرانی",QallamKids
+https://cdn.karwan.tv/qallam-kids/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="Kids",BabyFirst
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/acuCGF8.png" group-title="Kids",Roya Kids Originals (1080p)
+https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-originals/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M0ik0i2.png" group-title="Kids",Sat 7 Kids (1080p)
+https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wqfpYqQN/NRT3.png" group-title="KURDISH سۆرانی",NRT 3
+http://gawadkoregawad.ddns.net/EX/NRT_3-kr/index.m3u8?token=fyBlKndpdfssdfsdfe3pmLXppNxEVBw1he3VoLnQ1Kj9gfHdofnVkc3Fo
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hcDqy47L/kp.png" group-title="Kurdish TV",KURDMAX PEPULE
+http://gawadkoregawad.ddns.net:2200/EX/KurdMax_Pepule_Sorani-kr/index.m3u8?token=fyBlKndpe3pmLXpfsdfsdfsdfsdfpNxEVBw1he3VoLnQ1Kj9gfHdofnVkcnNg
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J8x0qQhq/ZARO.png" group-title="KURDISH کرمانجی",ZAROK TV
+https://zindikurmanci.zaroktv.com.tr/hls/0/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zzj0wpgs/baxcha.png" group-title="KURDISH سۆرانی",AFRIN  TV
+http://afarintv.flashmediacast.com:1935/afarinTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zzj0wpgs/baxcha.png" group-title="KURDISH سۆرانی",AFRIN Baxcha
+http://afarintv2.flashmediacast.com:1935/afarinTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JmC8HYJH/BAXCHA.png" group-title="KURDISH سۆرانی",Baxcha FM
+http://afarintv2.flashmediacast.com:1935/afarinTV/d1/livestream/HawezHD.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jtz9rcPP/jojo-mama.png" group-title="KURDISH سۆرانی",JOJO MAMA
+http://185.189.225.150:85/BabyTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dF5QdtWN/pelistank.png" group-title="Kurdish TV",PELISTANK
+http://gawadkoregawad.ddns.net:2200/EX/Pelistank-kr/index.m3u8?token=asdaf423v63ctv53sdfghvtwe4vfdgsd gsdfgdfh643bvs
+#EXTINF:-1,Ani
+https://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8
+#EXTINF:-1,Baby Sharek
+https://newidco-babysharktv-1-eu.rakuten.wurl.tv/1200.m3u8
+#EXTINF:-1,Afarin Kids Radio
+https://live.karwan.tv/afarin-radio/tracks-v1a1/mono.m3u8?token=3c19f2e5c26fadd6247b43b97f14b409b36d2f77-ae9e04c5cd8ae7ef6dfbb4a355aead0e-1750963406-1748889806
+#EXTINF:-1,MMN KIDS
+https://live.karwan.tv/mmn-kids/tracks-v1a1/mono.m3u8?token=3d56aa39fc8f28c109d9a0b3a929763fbb85a0d1-2c44acc6dc1851021675e46858c4bf3c-1750969198-1748895598
+#EXTINF:-1,ZARKO KIDS
+https://live.karwan.tv/zarok-tv/tracks-v1a1/mono.m3u8?token=fe4d9b532b9e0c8c274a56a4e180fbc72c76cbfe-5df23b4e3fcca781502d9201f75a0365-1750969240-1748895640
+#EXTINF:-1,KIDO KIDS
+https://live.karwan.tv/kidco-tv/tracks-v1a1/mono.m3u8?token=5d645e6cdce1acb14f476fc1d262ef53de5d9161-1e7783dcd9b014f3486242746f1b9b72-1750969283-1748895683
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/37q1knCP/KIDCO.png" group-title="KURDISH کرمانجی",KIDCO
+http://avrstream.com:1935/live/kidcohd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PJQD9brR/70-C00404-F61-B-4656-ABCD-4-E8281-C8-A659.png" group-title="Kurdish TV",MBC 3
+http://149.57.37.10/EX/MBC_3_FHD-ar/index.m3u8
+#EXTINF:-1,Zarol TV
+https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DvkJV4qp/1ST.png" group-title="KURDISH سۆرانی",FIRST
+http://gawadkoregawad.ddns.net/EX/First_Kids_TV-kr/index.m3u8?token=fyBlKndpe3pmLXppNxEdsfdsfsdfsdfVBw1he3VoLnQ1Kj9gfHdofnVkcnpi
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TzOKMMy.png" group-title="IRAQ",Majid TV (1080p)
+https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="IRAQ",Spacetoon (1080p)
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
+#EXTINF:-1 group-title="Kurdish TV",Tom And Jerry
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8

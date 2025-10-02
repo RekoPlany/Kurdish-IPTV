@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gdFzxswH/news.png" group-title="Bein Sports",Bein Sport 1
+http://het120a.4rouwanda-shop.store/live/918454578001/index.m3u8?t=9QXB5qEjat3KCsJgrb7F2Q&e=1747826966
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gdFzxswH/news.png" group-title="Bein Sports",Bein Spotr 2
+http://het103a.4rouwanda-shop.store/live/69854211/index.m3u8?t=EPT4yadY5rpTB4cZRu5Cog&e=1747826954
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gdFzxswH/news.png" group-title="Bein Sports",Bein Sport 3
+http://bdd78.4rouwanda-shop.store/live/645587700/index.m3u8?t=3r_-IO1apaaHR2cjuzij-A&e=1747826931
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gdFzxswH/news.png" group-title="Bein Sports",Bein Sport 4
+http://bdd78.4rouwanda-shop.store/live/9787488847/index.m3u8?t=ut8hNVBd9HHxgXJwdZpcug&e=1747834006
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gdFzxswH/news.png" group-title="Bein Sports",Bein Sport 5
+http://het109a.4rouwanda-shop.store/live/610303030/index.m3u8?t=HRl40IHhhuu35WjxJIMvGg&e=1747834046
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gdFzxswH/news.png" group-title="Bein Sports",Bein Sport 6
+http://het103a.4rouwanda-shop.store/live/1515000000/index.m3u8?t=faEfsA5qynkYUTmALjuo0Q&e=1747834072
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gdFzxswH/news.png" group-title="Bein Sports",Bein Sport 7
+http://het108a.4rouwanda-shop.store/live/33523510/index.m3u8?t=j2aW1nVKGnCHcrxpu6pBrQ&e=1747834112
+#EXTINF:-1 group-title="Bein Sports",Astera Sport
+https://live3.karwan.tv/astera-sport/index.m3u8?token=1b6055c0817afd3996004095626175e212ac3c64-6a7bbc4d3f96cbfa2e4d70b52226425a-1753302408-1751228808
+#EXTINF:-1 group-title="Bein Sports",Ava Sport
+https://live3.karwan.tv/ava-sport/index.m3u8?token=d7ba5c29d359a3733ea88f57ede23afbccd4b740-1bdc8449b3b1365b7d76995bc134f4fb-1753302511-1751228911
+#EXTINF:-1 group-title="Bein Sports",Dahouk TV Sport
+https://live3.karwan.tv/duhok-tv-sport/index.m3u8?token=7dc324302ec2e4cb7ca8a47f068f3a27fbdd68c7-2062d39729df12c7457163a31c2bf7b0-1753303407-1751229807
+#EXTINF:-1 group-title="Bein Sports",Gewhar Sport
+https://live3.karwan.tv/gewher-sport/index.m3u8?token=78e12120f479fa4f2099d472b4ec64b146d5bfc1-a246a07c9eb22b94a3f2e563ad58a4e4-1753303882-1751230282
+#EXTINF:-1 group-title="Bein Sports",NRT Sport
+https://live6.karwan.tv/nrt-sport/index.m3u8?token=7eaa7459051543a4cee15ebe2e6cbe616c74abba-75931c6b681e857ca03674f5f95dd450-1753308783-1751235183
