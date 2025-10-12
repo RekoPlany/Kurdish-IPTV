@@ -403,3 +403,25 @@ https://bcovlive-a.akamaihd.net/95116e8d79524d87bf3ac20ba04241e3/eu-central-1/53
 https://live.i-news.tv/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/erZ0Ol1.png" group-title="News",KTV News (1080p)
 https://kwtkbta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Kurdish TV",Astera Family
+https://live3.karwan.tv/astera-family/index.mpd?token=13ab69a01c388bf4f1915ddc0f693e1beb417d67-017c69b146da60d339f95e7f358b91f6-1760048165-1760037365&remote=no_check_ip|User-Agent=Mozilla%2F5.0%20(Linux%3B%20Android%2010%3B%20K)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F137.0.0.0%20Mobile%20Safari%2F537.36&Referer=https%3A%2F%2Fkarwan.tv%2F
+#EXTINF:-1 group-title="Kurdish TV",Astera Show
+https://live3.karwan.tv/astera-show/index.mpd?token=77bff8c40d5577ac8207c627caed61b6a4926244-6926379d51e82125ca8d50e514e29543-1760048635-1760037835&remote=no_check_ip|User-Agent=Mozilla%2F5.0%20(Linux%3B%20Android%2010%3B%20K)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F137.0.0.0%20Mobile%20Safari%2F537.36&Referer=https%3A%2F%2Fkarwan.tv%2F
+#EXTINF:-1 group-title="Bein Sports",Astera Sports
+https://live3.karwan.tv/astera-sport/index.mpd?token=e60098bdaba07e5920d7da4a2db6899c84e8b8b2-a0ec89813384e504e57082023f7a6694-1760048695-1760037895&remote=no_check_ip|User-Agent=Mozilla%2F5.0%20(Linux%3B%20Android%2010%3B%20K)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F137.0.0.0%20Mobile%20Safari%2F537.36&Referer=https%3A%2F%2Fkarwan.tv%2F
+#EXTINF:-1 group-title="Bein Sports",AVA Sports
+https://live.karwan.tv/ava-sport/index.mpd?token=d8de87e19cd292068f9822431dda851b4b233b4e-135d0fd81596b1fc088ac02c362037c5-1760048764-1760037964&remote=no_check_ip|User-Agent=Mozilla%2F5.0%20(Linux%3B%20Android%2010%3B%20K)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F137.0.0.0%20Mobile%20Safari%2F537.36&Referer=https%3A%2F%2Fkarwan.tv%2F
+#EXTINF:-1 group-title="Kurdish TV",Kurdsat
+https://live.karwan.tv/kurdsat-tv/index.mpd?token=01aca8c0db5695ef8602bbad8dde3ae4015c5110-7e861347faf6aa5d0ea588fedf797a77-1760048885-1760038085&remote=no_check_ip|User-Agent=Mozilla%2F5.0%20(Linux%3B%20Android%2010%3B%20K)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F137.0.0.0%20Mobile%20Safari%2F537.36&Referer=https%3A%2F%2Fkarwan.tv%2F
+#EXTINF:-1 group-title="Kurdish TV",KURDSAT NEWS
+https://live.karwan.tv/kurdsat-news-tv/index.mpd?token=b1b1c7ce00dfcf8810b2fcab6db3528b853a4a11-4a6d7e5795b74f5382dd603733789e7a-1760048863-1760038063&remote=no_check_ip|User-Agent=Mozilla%2F5.0%20(Linux%3B%20Android%2010%3B%20K)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F137.0.0.0%20Mobile%20Safari%2F537.36&Referer=https%3A%2F%2Fkarwan.tv%2F
+#EXTINF:-1 group-title="Bein Sports",NRT SPORTS
+https://live.karwan.tv/nrt-sport/index.mpd?token=c44220eac77e656d474696a10c14d3be2543bbb7-4e46e841d1d5ad8114a6e29fd8f774ae-1760048985-1760038185&remote=no_check_ip|User-Agent=Mozilla%2F5.0%20(Linux%3B%20Android%2010%3B%20K)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F137.0.0.0%20Mobile%20Safari%2F537.36&Referer=https%3A%2F%2Fkarwan.tv%2F
+#EXTINF:-1 group-title="Kurdish TV",AVA TV
+https://live.karwan.tv/ava-tv/index.mpd?token=2029661e6fae00b13bbf200496fe78b4260907c1-d18e2a782bc695117a199e90ee0dbfdf-1760049035-1760038235&remote=no_check_ip|User-Agent=Mozilla%2F5.0%20(Linux%3B%20Android%2010%3B%20K)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F137.0.0.0%20Mobile%20Safari%2F537.36&Referer=https%3A%2F%2Fkarwan.tv%2F
+#EXTINF:-1 group-title="Kurdish TV",Baboly
+https://live3.karwan.tv/baboly-tv/index.mpd?token=e3fe3d207a7cecf848dd7a94c6478b4a38a3ee02-12065879d4240bc61616681de8c638f7-1760049073-1760038273&remote=no_check_ip|User-Agent=Mozilla%2F5.0%20(Linux%3B%20Android%2010%3B%20K)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F137.0.0.0%20Mobile%20Safari%2F537.36&Referer=https%3A%2F%2Fkarwan.tv%2F
+#EXTINF:-1 group-title="Bein Sports",Bein Sports 1 FHD
+http://het108a.4rouwanda-shop.store/live/918454578001/index.m3u8?t=R9QernAxuZBbyCuNFe0LMw&e=1759613453
+#EXTINF:-1 group-title="Bein Sports",Bein Sports 2 FHD
+http://het109a.4rouwanda-shop.store/live/69854211/index.m3u8?t=fMPuI8zNf7WnsvNqZWsFYw&e=1759691043
