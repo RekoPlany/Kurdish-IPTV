@@ -10,7 +10,7 @@ https://cdn.karwan.tv/zed-tv-plus/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Hp9D7B9B/ktv.png" group-title="Kurdish TV",KURDISTAN TV
 https://5a3ed7a72ed4b.streamlock.net:443/live/SMIL:myStream.smil/chunklist_w1790905875_b1700000_sleng_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/y64vcbts/KURDNEWS.png" group-title="Kurdish TV",KURDSAT
-https://iko-live.akamaized.net/KurdsatTV/master_1.m3u8
+https://tgn.bozztv.com/trn03/gin-kurdsat/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTMvMjAyNSAxOjU5OjU3IFBNJmhhc2hfdmFsdWU9djA4TGRJWTRUY2Z5VW9nVFV2NHczZz09JnZhbGlkbWludXRlcz0xNDQwJnN0cm1fbGVuPTE3
 #EXTINF:-1 group-title="Kurdish TV",Rudaw
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
 #EXTINF:-1 group-title="Kurdish TV",Payam TV
@@ -192,7 +192,7 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39c
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gdFzxswH/news.png" group-title="Bein Sports",Bein Sport 1
 http://het120a.4rouwanda-shop.store/live/918454578001/index.m3u8?t=9QXB5qEjat3KCsJgrb7F2Q&e=1747826966
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gdFzxswH/news.png" group-title="Bein Sports",Bein Spotr 2
-http://het103a.4rouwanda-shop.store/live/69854211/index.m3u8?t=EPT4yadY5rpTB4cZRu5Cog&e=1747826954
+http://het105a.4rouwanda-shop.store/live/69854211/index.m3u8?t=FjpCHzqrd2gxxFn2_9Rdqw&e=1760375045
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gdFzxswH/news.png" group-title="Bein Sports",Bein Sport 3
 http://bdd78.4rouwanda-shop.store/live/645587700/index.m3u8?t=3r_-IO1apaaHR2cjuzij-A&e=1747826931
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gdFzxswH/news.png" group-title="Bein Sports",Bein Sport 4
@@ -361,8 +361,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/LNE7CK973BXBGD/960/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/LNE7CK973BXBGD/12098/index.m3u8
 #EXTINF:-1 tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/rwdaw.png" group-title="News",RUDAW HD
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/rudawpublish/rudawtv_720p/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9X0QSLCN/KNEWS.png" group-title="News",KURDSAT NEWS
-https://kurdsat-news.akamaized.net/hls/stream_0.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HYnQ79qL/zoom.png" group-title="News",ZOOM NEWS
 https://live.zoomnews.info/live/Zoom/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/s3DfxzHP/MMN.png" group-title="News",MMN NEWS
@@ -411,10 +409,8 @@ https://live3.karwan.tv/astera-show/index.mpd?token=77bff8c40d5577ac8207c627caed
 https://live3.karwan.tv/astera-sport/index.mpd?token=e60098bdaba07e5920d7da4a2db6899c84e8b8b2-a0ec89813384e504e57082023f7a6694-1760048695-1760037895&remote=no_check_ip|User-Agent=Mozilla%2F5.0%20(Linux%3B%20Android%2010%3B%20K)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F137.0.0.0%20Mobile%20Safari%2F537.36&Referer=https%3A%2F%2Fkarwan.tv%2F
 #EXTINF:-1 group-title="Bein Sports",AVA Sports
 https://live.karwan.tv/ava-sport/index.mpd?token=d8de87e19cd292068f9822431dda851b4b233b4e-135d0fd81596b1fc088ac02c362037c5-1760048764-1760037964&remote=no_check_ip|User-Agent=Mozilla%2F5.0%20(Linux%3B%20Android%2010%3B%20K)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F137.0.0.0%20Mobile%20Safari%2F537.36&Referer=https%3A%2F%2Fkarwan.tv%2F
-#EXTINF:-1 group-title="Kurdish TV",Kurdsat
-https://live.karwan.tv/kurdsat-tv/index.mpd?token=01aca8c0db5695ef8602bbad8dde3ae4015c5110-7e861347faf6aa5d0ea588fedf797a77-1760048885-1760038085&remote=no_check_ip|User-Agent=Mozilla%2F5.0%20(Linux%3B%20Android%2010%3B%20K)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F137.0.0.0%20Mobile%20Safari%2F537.36&Referer=https%3A%2F%2Fkarwan.tv%2F
 #EXTINF:-1 group-title="Kurdish TV",KURDSAT NEWS
-https://live.karwan.tv/kurdsat-news-tv/index.mpd?token=b1b1c7ce00dfcf8810b2fcab6db3528b853a4a11-4a6d7e5795b74f5382dd603733789e7a-1760048863-1760038063&remote=no_check_ip|User-Agent=Mozilla%2F5.0%20(Linux%3B%20Android%2010%3B%20K)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F137.0.0.0%20Mobile%20Safari%2F537.36&Referer=https%3A%2F%2Fkarwan.tv%2F
+http://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS-avc1_400000=10000.m3u8
 #EXTINF:-1 group-title="Bein Sports",NRT SPORTS
 https://live.karwan.tv/nrt-sport/index.mpd?token=c44220eac77e656d474696a10c14d3be2543bbb7-4e46e841d1d5ad8114a6e29fd8f774ae-1760048985-1760038185&remote=no_check_ip|User-Agent=Mozilla%2F5.0%20(Linux%3B%20Android%2010%3B%20K)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F137.0.0.0%20Mobile%20Safari%2F537.36&Referer=https%3A%2F%2Fkarwan.tv%2F
 #EXTINF:-1 group-title="Kurdish TV",AVA TV
@@ -425,3 +421,77 @@ https://live3.karwan.tv/baboly-tv/index.mpd?token=e3fe3d207a7cecf848dd7a94c6478b
 http://het108a.4rouwanda-shop.store/live/918454578001/index.m3u8?t=R9QernAxuZBbyCuNFe0LMw&e=1759613453
 #EXTINF:-1 group-title="Bein Sports",Bein Sports 2 FHD
 http://het109a.4rouwanda-shop.store/live/69854211/index.m3u8?t=fMPuI8zNf7WnsvNqZWsFYw&e=1759691043
+#EXTINF:-1 group-title="Kurdish TV",قناة القران الكريم
+https://live.kwikmotion.com/ksaquranlive/ksaquran.smil/playlist_dvr.m3u8?hdnts=exp=1760358927~acl=/ksaquranlive/ksaquran.smil/*~hmac=a5e2c3d4ccfb8832eda242642596453f7180d39482b4266dc3455e1efcc7954d
+#EXTINF:-1 group-title="Kurdish TV",قناة السنة النبوية
+https://live.kwikmotion.com/ksasunnalive/ksasunna.smil/playlist_dvr.m3u8?hdnts=exp=1760359004~acl=/ksasunnalive/ksasunna.smil/*~hmac=3dac342391f29337c2143f03d58b99d2b4e3c72bc89b629070e7aff9ad5ce046
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc3.jpg?v=7" group-title="Kids",MBC 3
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc3.jpg?v=7" group-title="Kids",MBC 3 EURO
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
+#EXTINF:-1 group-title="Kurdish TV",MBC Iraq
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/almajd/majdb.jpg?v=7" group-title="Kids",قناة بسمة
+https://games1.elahmad.xyz/tv757_www.elahmad.com_almajd_bassma/index.m3u8?token=021758e77985ca80ab654009a52d73da65c1755f-a91116117362613aa011b726c4216a23-1760370063-1760359263
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/spacetoon.jpg?v=7" group-title="Kids",Spacetoon
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/saudi/saudisport1.jpg?v=7" group-title="Sports",KSA Sport 1
+https://live.kwikmotion.com/ksasports1live/ksasports1.smil/playlist_dvr.m3u8?hdnts=exp=1760359832~acl=/ksasports1live/ksasports1.smil/*~hmac=27bddd669e716e0338e5453aec8f07a778ffa552764390f01beaea7dd397e61d
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/saudi/saudisport2.jpg?v=7" group-title="Sports",KSA Sport 2
+https://live.kwikmotion.com/ksasports2live/ksasports2.smil/playlist_dvr.m3u8?hdnts=exp=1760359883~acl=/ksasports2live/ksasports2.smil/*~hmac=6112aa662e26c5da79b631fd380037289647fdb04a977ed9bb64ed317e7707c1
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/saudi/saudisport3.jpg?v=7" group-title="Sports",KSA SPORT 3
+https://live.kwikmotion.com/ksasports3live/ksasports3.smil/playlist_dvr.m3u8?hdnts=exp=1760359959~acl=/ksasports3live/ksasports3.smil/*~hmac=cbf97bb81c331a565a180a3372a962bab81f7537c1f89947f5820ff961ea634e
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/dubai_sports.jpg?v=7" group-title="Sports",DUBAI SPORTS 1
+https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/dubai_sports.jpg?v=7" group-title="Sports",DUBAI SPORTS 2
+https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/dubai_sports.jpg?v=7" group-title="Sports",DUBAI SPORTS 3
+https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/abu_dhabi_sports_1.jpg?v=7" group-title="Sports",AD SPORTS
+https://tgn.bozztv.com/gin-dvrfl05/gin-adsport1/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTMvMjAyNSAxMjo1NzoxNSBQTSZoYXNoX3ZhbHVlPWRJcUhGRllldWR3N3ZQWDZUNGFIVkE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZzdHJtX2xlbj0yNA==
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/aliraqya_sport.jpg?v=7" group-title="Sports",IRAQYA SPORTS
+https://games2.elahmad.xyz/tv757_www.elahmad.com_iraq_sport_1/index.m3u8?token=0447c477c03865091ef10629b3b30d3c3f14f8d7-380ea4245fddcc1f340b2d9c2f66904d-1760370778-1760359978
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/alkass_1.jpg" group-title="Sports",ALKASS 1 HD
+https://tgn.bozztv.com/gin-36bay3/ga-alkass1/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTMvMjAyNSAxMjo1OTo1MiBQTSZoYXNoX3ZhbHVlPUVtYnZ6b29pWmFhZW9zUDJ4S1huZnc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZzdHJtX2xlbj0yMQ==
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/alkass_2.jpg" group-title="Sports",ALKASS 2 HD
+https://tgn.bozztv.com/gin-36bay3/ga-alkass1/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTMvMjAyNSAxMjo1OTo1MiBQTSZoYXNoX3ZhbHVlPUVtYnZ6b29pWmFhZW9zUDJ4S1huZnc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZzdHJtX2xlbj0yMQ==
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/alkass_3.jpg" group-title="Sports",ALKASS 3 HD
+https://tgn.bozztv.com/gin-36bay3/ga-alkass1/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTMvMjAyNSAxMjo1OTo1MiBQTSZoYXNoX3ZhbHVlPUVtYnZ6b29pWmFhZW9zUDJ4S1huZnc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZzdHJtX2xlbj0yMQ==
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/alkass_4.jpg" group-title="Sports",ALKASS 4 HD
+https://tgn.bozztv.com/gin-36bay3/ga-alkass1/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTMvMjAyNSAxMjo1OTo1MiBQTSZoYXNoX3ZhbHVlPUVtYnZ6b29pWmFhZW9zUDJ4S1huZnc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZzdHJtX2xlbj0yMQ==
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/alkass_5.jpg" group-title="Sports",ALKASS 5 HD
+https://tgn.bozztv.com/gin-36bay3/ga-alkass1/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTMvMjAyNSAxMjo1OTo1MiBQTSZoYXNoX3ZhbHVlPUVtYnZ6b29pWmFhZW9zUDJ4S1huZnc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZzdHJtX2xlbj0yMQ==
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/alkass_6.jpg" group-title="Sports",ALKASS 6 HD
+https://tgn.bozztv.com/gin-36bay3/ga-alkass1/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTMvMjAyNSAxMjo1OTo1MiBQTSZoYXNoX3ZhbHVlPUVtYnZ6b29pWmFhZW9zUDJ4S1huZnc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZzdHJtX2xlbj0yMQ==
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/almajd/majdq.jpg?v=7" group-title="Kurdish TV",قناة المجد
+https://games1.elahmad.xyz/tv757_www.elahmad.com_almajd_quran/index.m3u8?token=bbcdd2e2be3f23d2ea385ea3d4249bc708c1216a-261e84785503782ec38272a11043d70e-1760372293-1760361493
+#EXTINF:-1 tvg-logo="https://backend.roya-tv.com/imagechanger/Size01Q40R11/images/channels/xUxUesrlmWmoLXa.png" group-title="Kurdish TV",شيف مان
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/chef-man/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://backend.roya-tv.com/imagechanger/Size01Q40R11/images/channels/i3HD9nf6Cv6CGz0.png" group-title="Kurdish TV",ست النكهات
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/sett-alnakhat/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/dubai_racing.jpg?v=7" group-title="Sports",DUBAI RACING
+https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/national_geographic.jpg?v=7" group-title="Documentary",NATIONAL GEOGRAPHIC
+https://streamer1.qna.org.qa/148133202_live/148133202_63.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/abudhabi_alemarat.jpg?v=7" group-title="Kurdish TV",قناة الامارات
+https://raw.elahmad.net/https://vo-live-media.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/fatafeat.jpg?v=7" group-title="Kurdish TV",Fatafeat
+https://games1.elahmad.xyz/tv757_www.elahmad.com_fatafeat/index.m3u8?token=525a8dea7b76223404ed8461fee07388444e9fd6-fc64a3839eee4cb0a6cfc84473fd57e1-1760373274-1760362474
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/lana_syria.jpg?v=7" group-title="Kurdish TV",LANA TV
+https://games1.elahmad.xyz/tv757_www.elahmad.com_lana_syria/index.m3u8?token=96db160c1c84e8a85b2a5ad7aa84b198174f8473-198b1a29c6505846ad09d25323e803c0-1760373403-1760362603
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/syria_althania.jpg?v=7" group-title="Kurdish TV",SYRYA 2
+https://live.kwikmotion.com/syriatv02live/syriatv02.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/aljazeera_mubasher.jpg?v=7" group-title="Kurdish TV",ALJAZEERA LIVE
+https://live-hls-apps-ajm-v3-fa.getaj.net/AJM/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/iraqiya_news.jpg?v=7" group-title="Kurdish TV",IRAQYA NEWS
+https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8?user=sgls540839&session=ebfcbea02049a578fa06d663e18dbca3819e305f90283c5a9b7845826ac25b45517e7c8f391d493b384e97fef14771cc
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/aliraqya_tv.jpg?v=7" group-title="Kurdish TV",ALIRAQYA
+https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8?v=d4ed7958
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/alsumaria.jpg?v=7" group-title="Kurdish TV",ALSOMARYA TV
+https://live.kwikmotion.com/alsumariatvlive/sumariamob.smil/playlist.m3u8?hdnts=exp=1760363801~acl=/alsumariatvlive/sumariamob.smil/*~hmac=8754424517ca72b7128519576b7a0885045e9ce28168c0b51c474f7f2a4b6dce
+#EXTINF:-1 tvg-logo="https://www.elahmad.com/tv/mobiletv/images/nrttv.jpg?v=7" group-title="Kurdish TV",NRT TV
+https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
+#EXTINF:-1,AVA TV
+http://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV-avc1_2500000=10002.m3u8
+#EXTINF:-1,NRT
+https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
